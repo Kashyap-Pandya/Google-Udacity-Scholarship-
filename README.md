@@ -160,15 +160,15 @@ I'll share more as i know
 UI/UX ==>>
 
 
-http://Hackdesign.org
+https://Hackdesign.org
 
-https://Typogui.de
+http://Typogui.de
 
 http://thehipperelement.com/
 
-http://uxpin.com
+https://uxpin.com
 
-http://www.uxapprentice.com/ 
+https://www.uxapprentice.com/ 
 
 
 
