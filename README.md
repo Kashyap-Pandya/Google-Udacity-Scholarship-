@@ -118,19 +118,19 @@ http://marksheet.io/
 
 http://learnlayout.com/
 
-w3schools.com
+https://www.w3schools.com/
 
-htmldog.com
+http://htmldog.com
 
-tutorialspoint.com
+https://www.tutorialspoint.com/index.htm
 
-html-5-tutorial.com
+https://www.html-5-tutorial.com/
 
-developer.mozilla.org
+https://developer.mozilla.org/en-US/
 
-learntocodewith.me (basic)
+https://learntocodewith.me (basic)
 
-overapi.com (cheetsheet)
+http://overapi.com (cheetsheet)
 
 https://htmlreference.io/
 
@@ -160,13 +160,13 @@ I'll share more as i know
 UI/UX ==>>
 
 
-Hackdesign.org
+http://Hackdesign.org
 
-Typogui.de
+https://Typogui.de
 
 http://thehipperelement.com/
 
-uxpin
+http://uxpin.com
 
 http://www.uxapprentice.com/ 
 
