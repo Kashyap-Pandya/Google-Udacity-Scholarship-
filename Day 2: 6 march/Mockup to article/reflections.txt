@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+* i learned more about how to search effectively to find exactly what you're looking for
+* it was basic html so i find everything quick easy to learn and udaicty did really good job to explaning all the stuff so well. 
+* for me personally it was difficult to being consistant. but i'm working on it and with time and my effeort now i'm more consistant then before
+* i kinda love when i find any error or any random probelm shows up. i read the error do the quick search and figure out what needs to be done then write a quick note how i'm gonna tackle this specific problem and start working towards it. i think i'll able to answer more specifally and in deep when javascript challenges will start. 
